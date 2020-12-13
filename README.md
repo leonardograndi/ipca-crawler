@@ -8,13 +8,13 @@
 Este projeto tem como objetivo conhecer a linguagem Python e a suas funcionalidades. A aplicação é responsável por acessar o site https://www.portalbrasil.net/ipca/ e coletar informações sobre o ***Índice de preços no consumidor***.
 
 <h4>Requisitos:</h4>
-- Python 3
+- Python 3.6.9
 
 <h3>Instalação:</h3>
 
 Faça o clone do projeto
 ```
-https://github.com/leonardograndi/ipca-crawler.git
+git clone https://github.com/leonardograndi/ipca-crawler.git && cd ipca-crawler
 ```
 Crie o ambiente virtual
 ```
